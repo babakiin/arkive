@@ -1,0 +1,13 @@
+# Project virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# Editors
+.vscode/
